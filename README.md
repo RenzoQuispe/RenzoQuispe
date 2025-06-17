@@ -1,4 +1,4 @@
-## Hi there 👋
+## ¡Hola! Soy Renzo Quispe soy estudiante de Ciencia de la Computación en la Universidad Nacional de Ingeniería
 
 <!--
 **RenzoQuispe/RenzoQuispe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
