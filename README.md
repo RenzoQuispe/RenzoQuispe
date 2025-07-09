@@ -38,5 +38,5 @@ Soy estudiante de Ciencia de la Computación en la Universidad Nacional de Ingen
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoQuispe&layout=compact&langs_count=10&theme=tokyonight&hide_title=true&include_all_commits=true)
-)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoQuispe&layout=compact&langs_count=20&theme=tokyonight&hide_title=true&include_all_commits=true)
+
