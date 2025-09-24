@@ -53,5 +53,5 @@ Soy estudiante de Ciencia de la Computación en la Universidad Nacional de Ingen
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?logo=hackthebox&logoColor=9fef00)](https://www.hackthebox.com/)
 [![HackMyVM](https://img.shields.io/badge/HackMyVM-black?logo=linux&logoColor=white)](https://hackmyvm.eu/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoQuispe&layout=compact&langs_count=15&theme=tokyonight&hide_title=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoQuispe&layout=compact&langs_count=16&theme=tokyonight&hide_title=true&include_all_commits=true)
 
