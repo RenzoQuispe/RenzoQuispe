@@ -48,10 +48,13 @@ Soy estudiante de Ciencia de la Computación en la Universidad Nacional de Ingen
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://www.kali.org/images/kali-logo.svg" alt="kalilinux" width="40" height="40"/>
   </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
 </p>
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?logo=hackthebox&logoColor=9fef00)](https://www.hackthebox.com/)
 [![HackMyVM](https://img.shields.io/badge/HackMyVM-black?logo=linux&logoColor=white)](https://hackmyvm.eu/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoQuispe&layout=compact&langs_count=16&theme=tokyonight&hide_title=true&include_all_commits=true)
-
