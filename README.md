@@ -1,9 +1,9 @@
-#### 👋 ¡Hola! Soy Renzo Quispe
+#### 👋 Hi! I'm Renzo Quispe
 
-Soy estudiante de Ciencia de la Computación en la Universidad Nacional de Ingeniería (UNI)
+I'm a Computer Science student at the National University of Engineering (UNI) and I work as a **Full Stack Developer**.
 
 ---
-#### Tecnologías y herramientas que uso con mayor frecuencia:
+#### Technologies and tools I use most frequently:
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -21,8 +21,17 @@ Soy estudiante de Ciencia de la Computación en la Universidad Nacional de Ingen
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+         alt="react"
+         width="40"
+         height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+         alt="tailwind"
+         width="40"
+         height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
@@ -32,6 +41,12 @@ Soy estudiante de Ciencia de la Computación en la Universidad Nacional de Ingen
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+         alt="sqlserver"
+         width="40"
+         height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
